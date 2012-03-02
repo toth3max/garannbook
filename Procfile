@@ -1,1 +1,1 @@
-web: node serverFileFromDisk.js
+web: node servingAStaticPage.js
